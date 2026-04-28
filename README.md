@@ -1,1 +1,2 @@
 # ChromaMind
+Wap Capstone Project
