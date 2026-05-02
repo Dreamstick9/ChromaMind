@@ -1,2 +1,3 @@
 # ChromaMind
 Wap Capstone Project
+Ihopewedosomethingbytheendofthisweek
